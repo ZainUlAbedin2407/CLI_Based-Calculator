@@ -1,10 +1,12 @@
 {
   "name": "zu_07_calculator",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": " simple calculator with typescript ,  Node JS and Inquirer",
   "main": "index.js",
   "type": "module",
-  "bin": {"zu_07_calculator" : "index.js"},
+  "bin": {
+    "zu_07_calculator": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
